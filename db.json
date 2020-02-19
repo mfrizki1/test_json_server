@@ -1,0 +1,33 @@
+{
+    "message":{},
+    "status":{},
+    "data":{
+        "province":[
+            {
+                "id":"1",
+                "name":"Kalimantan Barat"
+
+            },
+            {
+                "id":"2",
+                "name":"Kalimantan Tengah"
+
+            },
+            {
+                "id":"3",
+                "name":"Kalimantan Selatan"
+
+            },
+            {
+                "id":"4",
+                "name":"Kalimantan Timur"
+
+            },
+            {
+                "id":"5",
+                "name":"Kalimantan Utara"
+
+            }
+        ]
+    }
+}
