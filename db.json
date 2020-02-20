@@ -1,0 +1,479 @@
+{
+    "province":[
+            {
+            "id":"1",
+                "name":"Kalimantan Barat"
+
+            },
+            {
+                "id":"2",
+                "name":"Kalimantan Tengah"
+
+            },
+            {
+                "id":"3",
+                "name":"Kalimantan Selatan"
+
+            },
+            {
+                "id":"4",
+                "name":"Kalimantan Timur"
+
+            },
+            {
+                "id":"5",
+                "name":"Kalimantan Utara"
+
+            }
+    ],
+    "city": [
+        {
+          "id": "6101",
+          "name": "Sambas",
+          "province_id": "61",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6102",
+          "name": "Pontianak",
+          "province_id": "61",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6103",
+          "name": "Sanggau",
+          "province_id": "61",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6104",
+          "name": "Ketapang",
+          "province_id": "61",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6105",
+          "name": "Sintang",
+          "province_id": "61",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6106",
+          "name": "Kapuas Hulu",
+          "province_id": "61",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6107",
+          "name": "Bengkayang",
+          "province_id": "61",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6108",
+          "name": "Landak",
+          "province_id": "61",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6109",
+          "name": "Sekadau",
+          "province_id": "61",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6110",
+          "name": "Melawi",
+          "province_id": "61",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6111",
+          "name": "Kayong Utara",
+          "province_id": "61",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6112",
+          "name": "Kubu Raya",
+          "province_id": "61",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6171",
+          "name": "Kota Pontianak",
+          "province_id": "61",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6172",
+          "name": "Kota Singkawang",
+          "province_id": "61",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6201",
+          "name": "Kotawaringin Barat",
+          "province_id": "62",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6202",
+          "name": "Kotawaringin Timur",
+          "province_id": "62",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6203",
+          "name": "Kapuas",
+          "province_id": "62",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6204",
+          "name": "Barito Selatan",
+          "province_id": "62",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6205",
+          "name": "Barito Utara",
+          "province_id": "62",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6206",
+          "name": "Katingan",
+          "province_id": "62",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6207",
+          "name": "Seruyan",
+          "province_id": "62",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6208",
+          "name": "Sukamara",
+          "province_id": "62",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6209",
+          "name": "Lamandau",
+          "province_id": "62",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6210",
+          "name": "Gunung Mas",
+          "province_id": "62",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6211",
+          "name": "Pulang Pisau",
+          "province_id": "62",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6212",
+          "name": "Murung Raya",
+          "province_id": "62",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6213",
+          "name": "Barito Timur",
+          "province_id": "62",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6271",
+          "name": "Kota Palangkaraya",
+          "province_id": "62",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6301",
+          "name": "Tanah Laut",
+          "province_id": "63",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6302",
+          "name": "Baru",
+          "province_id": "63",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6303",
+          "name": "Banjar",
+          "province_id": "63",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6304",
+          "name": "Barito Kuala",
+          "province_id": "63",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6305",
+          "name": "Tapin",
+          "province_id": "63",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6306",
+          "name": "Hulu Sungai Selatan",
+          "province_id": "63",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6307",
+          "name": "Hulu Sungai Tengah",
+          "province_id": "63",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6308",
+          "name": "Hulu Sungai Utara",
+          "province_id": "63",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6309",
+          "name": "Tabalong",
+          "province_id": "63",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6310",
+          "name": "Tanah Bumbu",
+          "province_id": "63",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6311",
+          "name": "Balangan",
+          "province_id": "63",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6371",
+          "name": "Kota Banjarmasin",
+          "province_id": "63",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6372",
+          "name": "Kota Banjar Baru",
+          "province_id": "63",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6401",
+          "name": "Paser",
+          "province_id": "64",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6402",
+          "name": "Kutai Kertanegara",
+          "province_id": "64",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6403",
+          "name": "Berau",
+          "province_id": "64",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6407",
+          "name": "Kutai Barat",
+          "province_id": "64",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6408",
+          "name": "Kutai Timur",
+          "province_id": "64",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6409",
+          "name": "Penajam Paser Utara",
+          "province_id": "64",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6411",
+          "name": "Mahakam Ulu",
+          "province_id": "64",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6471",
+          "name": "Kota Balikpapan",
+          "province_id": "64",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6472",
+          "name": "Kota Samarinda",
+          "province_id": "64",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6474",
+          "name": "Kota Bontang",
+          "province_id": "64",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6501",
+          "name": "Bulungan",
+          "province_id": "65",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6502",
+          "name": "Malinau",
+          "province_id": "65",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6503",
+          "name": "Nunukan",
+          "province_id": "65",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6504",
+          "name": "Tna Tidung",
+          "province_id": "65",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        },
+        {
+          "id": "6571",
+          "name": "Kota Tarakan",
+          "province_id": "65",
+          "url_image": null,
+          "longitude": null,
+          "latitude": null
+        }
+      ]
+}
